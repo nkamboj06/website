@@ -4,7 +4,7 @@ personal website
 Portfolio site built using Gatsby + Netlify.
 www.navpreetkamboj.com
 
-# Tooling
+## Tooling
 Netlify
 GatsbyJS
 React Reveal
